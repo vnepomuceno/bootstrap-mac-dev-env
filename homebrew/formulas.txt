@@ -1,0 +1,15 @@
+bat
+ctop
+diff-so-fancy
+exa
+fzf
+gradle-completion
+hstr
+htop
+httpie
+jq
+oh-my-zsh
+ripgrep
+zsh-autosuggestions
+zsh-completions
+zsh-syntax-highlighting
